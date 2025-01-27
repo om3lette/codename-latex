@@ -1,0 +1,1 @@
+from .render_document import render_latex as render_latex

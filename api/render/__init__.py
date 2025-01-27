@@ -1,0 +1,1 @@
+from .router import latex_router as latex_router
